@@ -23,9 +23,3 @@ You can play the game [here](https://your-username.github.io/tic-tac-toe/) (repl
 ![Game Screenshot]
 
 <img width="1897" height="950" alt="image" src="https://github.com/user-attachments/assets/18cdd3be-4194-44f8-bf6f-bbea5efc154c" />
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/tic-tac-toe.git
